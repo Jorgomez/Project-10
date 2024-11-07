@@ -19,10 +19,10 @@ React Router
 
 ## Dependencies
 
-"react": "^18.3.1",
-"react-dom": "^18.3.1",
-"react-router-dom": "^6.27.0",
-"react-toastify": "^10.0.6"
+####"react": "^18.3.1",
+####"react-dom": "^18.3.1",
+####"react-router-dom": "^6.27.0",
+####"react-toastify": "^10.0.6"
 
 ## Route Structure
 
@@ -30,7 +30,7 @@ Home: Main page with a search field and a brief (still under construction )
 Skills: Page listing the skills available for learning.
 
 Authentication page: - Registration - Native registration form. - Login:- Native login form. (still under construction )
-
+Favorites: Page listing favorties users .
 ## Website URL
 
 https://growtogetha.netlify.app
